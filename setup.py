@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # Add any dependencies your project may have
-        'unittest',
+        
     ],
     entry_points={
         'console_scripts': [
